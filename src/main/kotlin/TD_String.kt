@@ -32,4 +32,4 @@ fun main(args: Array<String>) {
             |(Benjamin Franklin)
             """.trimMargin()
     println(text)
-} 
+}
