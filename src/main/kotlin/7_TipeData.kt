@@ -26,4 +26,6 @@ fun main() {
 
     println("maxFloat:" + maxFloat)
     println("maxDouble:" + maxDouble)
+
+    // Untuk memberikan nilai sebagai float maka harus memberikan akhiran f atau F pada akhir literal.
 }
